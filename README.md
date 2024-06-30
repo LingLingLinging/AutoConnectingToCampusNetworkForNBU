@@ -1,0 +1,2 @@
+# AutoConnectingToCampusNetworkForNBU
+致力于简单制作一个开机自动连上校园网的脚本（ForNBU）
